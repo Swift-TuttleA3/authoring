@@ -1,27 +1,33 @@
 # Github Flavoured Markdown
 
 ## Sub-Header 2
-- [ ] External Link
+- [x] External Link
 
 ## Sub-Header 2
-- [ ] Internal Link
+- [x] Internal Link
 
 ## Sub-Header 3
-- [ ] Images
+- [x] Images
 
 ## Sub-Header 4      
-- [ ] Emojis
+- [x] Emojis
 
 ## Sub-Header 5 
-- [ ] Tables
+- [x] Tables
       
 ## Sub-Header for Links
 - [Weiterleitung zu Google.com](https://www.google.com)
 
+## Sub-Header for Bilder-Ordner
 - [Weiterleitung zum Ordner Images](https://github.com/Swift-TuttleA3/authoring/tree/main/Images)
 
 ## Sub-Header Picture
 ![Bears](https://github.com/Swift-TuttleA3/authoring/blob/main/Images/_6bddd0f8-d0e8-4fea-aba7-321f73817a0c.jpeg)
 
-:)
+## Sub-Header Emoji
+- [Weiterleitung zur Liste aller Emoji-Abkürzungen](https://gist.github.com/rxaviers/7360908) 😛
 
+| Name        | Klasse      |
+| ----------- | ----------- |
+| Uschi       | 11b         |
+| John-Boy    | 10a         |
